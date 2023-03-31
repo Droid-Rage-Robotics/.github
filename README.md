@@ -1,2 +1,3 @@
 # What is this
-This repository just holds information such as /profile/README.md which is displayed on the from page of the organization
+Droid-Rage-Robotics/.github is a special repository.
+The /profile/README.md will appear on the organization's profile.
