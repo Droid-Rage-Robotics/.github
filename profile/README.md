@@ -1,5 +1,5 @@
 # Droid Rage Robotics
-Droid Rage Robotics has 4 FTC teams and 1 FRC team as of the 2023 season.
+Droid Rage Robotics has 4 FTC teams and 1 FRC team.
 
 ## These are 
 - FRC Team 3035
